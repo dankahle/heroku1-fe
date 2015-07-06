@@ -1,5 +1,5 @@
 {
-  "name": "contacts-fe",
+  "name": "heroku1-fe",
   "version": "1.0.0",
   "description": "Contacts front end",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dankahle/contacts-fe.git"
+    "url": "https://github.com/dankahle/heroku1-fe.git"
   },
   "author": "Dan Kahle",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dankahle/contacts-fe/issues"
+    "url": "https://github.com/dankahle/heroku1-fe/issues"
   },
-  "homepage": "https://github.com/dankahle/contacts-fe",
+  "homepage": "https://github.com/dankahle/heroku1-fe",
   "devDependencies": {
     "del": "^1.2.0",
     "express": "^4.13.0",
